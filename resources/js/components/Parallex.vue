@@ -8,7 +8,7 @@
         >
             <v-col class="text-center" cols="12">
                 <h1 class="display-4 font-weight-thin mb-3">Vuetify.js</h1>
-                <h4 class="subheading">Build your application today!</h4>
+                <h4 class="subheading">Forum App application!</h4>
             </v-col>
         </v-row>
     </v-parallax>
